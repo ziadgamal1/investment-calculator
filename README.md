@@ -124,5 +124,3 @@ This project is licensed under the MIT License.
 - Inspiration from various online tutorials and resources.
 
 ---
-
-Feel free to customize this README file to better suit your project's specifics. Let me know if you need any more help!
